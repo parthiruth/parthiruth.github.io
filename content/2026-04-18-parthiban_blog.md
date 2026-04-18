@@ -21,5 +21,5 @@ Content goes here. Use markdown formatting as needed.
 - Bullet point one
 - Bullet point two
 
-> Optional blockquote for emphasis or callouts.
-![1775918663065](image/2026-04-04-zzemplate/1775918663065.png)
+<!-- > Optional blockquote for emphasis or callouts. -->
+<!-- ![1775918663065](image/2026-04-04-zzemplate/1775918663065.png) -->
