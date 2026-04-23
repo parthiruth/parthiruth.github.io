@@ -1,9 +1,8 @@
-Title: Parthiban
+Title: Parthiban_First_Github_blog
 Date: 2026-04-18
 Category: MyBlog
 Tags: GenAI, LLM, tag1, tag2
 Slug: Parthiban_Personal_blog
-<!-- Status: draft -->
 
 Write your intro paragraph here. Keep it short and punchy — set the stage for what follows.
 Hi This IS Parthiban
